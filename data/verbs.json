@@ -1,0 +1,532 @@
+{
+  "metadata": {
+    "title": "Conjugueur picard — données de travail",
+    "reference": "René Debrie, Èche pikar bèl é rade",
+    "status": "Transcription initiale partielle du scan ; vérifier les formes signalées comme incertaines"
+  },
+  "verbs": [
+    {
+      "infinitive": "kaché",
+      "variants": [
+        "caché"
+      ],
+      "group": "1er groupe — infinitif en -é",
+      "type": "regular",
+      "model": true,
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje kaché",
+            "tu kaché",
+            "i kaché",
+            "o z kachon",
+            "o z kaché",
+            "i kachte"
+          ],
+          "Imparfait": [
+            "èje kachwé",
+            "tu kachwé",
+            "i kachwé",
+            "o z kachwanme",
+            "o z kachwète",
+            "i kachwète"
+          ],
+          "Passé composé": [
+            "j'é kaché",
+            "t'o kaché",
+            "il o kaché",
+            "o z avon kaché",
+            "o z avé kaché",
+            "il on kaché"
+          ],
+          "Plus-que-parfait": [
+            "j'avwé kaché",
+            "t'avwé kaché",
+            "il avwé kaché",
+            "o z avwanme kaché",
+            "o z avwète kaché",
+            "il avwète kaché"
+          ],
+          "Futur simple": [
+            "èje kachré",
+            "tu kachro",
+            "i kachro",
+            "o z kachron",
+            "o z kachré",
+            "i kachron"
+          ],
+          "Futur antérieur": [
+            "j'éré kaché",
+            "t'éro kaché",
+            "il éro kaché",
+            "o z éron kaché",
+            "o z éré kaché",
+            "il éron kaché"
+          ]
+        },
+        "Conditionnel": {
+          "Présent": [
+            "èje kachrwé",
+            "tu kachrwé",
+            "i kachrwé",
+            "o z kachrwanme",
+            "o z kachrwète",
+            "i kachrwète"
+          ]
+        },
+        "Impératif": {
+          "Présent": [
+            "kaché !",
+            "kachon !",
+            "kaché !"
+          ]
+        },
+        "Infinitif": {
+          "Présent": [
+            "kaché"
+          ],
+          "Passé I": [
+            "avwèr kaché"
+          ],
+          "Passé II": [
+            "avwèr yeu kaché"
+          ]
+        },
+        "Participe": {
+          "Présent": [
+            "kachan"
+          ],
+          "Passé": [
+            "kaché"
+          ]
+        }
+      },
+      "notes": "Modèle du 1er groupe reproduit d'après le tableau de KACHÉ (p. 148). Certaines graphies sont issues d'un scan OCR et nécessitent une vérification visuelle.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 148 (pagination imprimée)."
+    },
+    {
+      "infinitive": "frétchir",
+      "variants": [],
+      "group": "2e groupe — infinitif en -ir, participe présent en -isan",
+      "type": "regular",
+      "model": true,
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje frétchi",
+            "tu frétchis",
+            "i frétchi",
+            "o z frétchison",
+            "o z frétchisé",
+            "i frétchite"
+          ],
+          "Passé composé": [
+            "j'é frétchi",
+            "t'o frétchi",
+            "il o frétchi",
+            "o z avon frétchi",
+            "o z avé frétchi",
+            "il on frétchi"
+          ],
+          "Futur simple": [
+            "èje frétchiré",
+            "tu frétchiro",
+            "i frétchiro",
+            "o z frétchiron",
+            "o z frétchiré",
+            "i frétchiron"
+          ]
+        },
+        "Conditionnel": {
+          "Présent": [
+            "èje frétchirwé",
+            "tu frétchirwé",
+            "i frétchirwé",
+            "o z frétchirwanme",
+            "o z frétchirwète",
+            "i frétchirwète"
+          ]
+        },
+        "Subjonctif": {
+          "Présent": [
+            "k'èje frétchi",
+            "k'tu frétchi",
+            "k'i frétchiche",
+            "k'o z frétchichonche",
+            "k'o z frétchichèche",
+            "k'i frétchichte"
+          ]
+        },
+        "Impératif": {
+          "Présent": [
+            "frétchi !",
+            "frétchison !",
+            "frétchisé !"
+          ]
+        },
+        "Infinitif": {
+          "Présent": [
+            "frétchir"
+          ],
+          "Passé": [
+            "avwèr frétchi"
+          ]
+        },
+        "Participe": {
+          "Présent": [
+            "frétchisan"
+          ],
+          "Passé": [
+            "frétchi"
+          ]
+        }
+      },
+      "notes": "Modèle FRÉTCHIR, p. 151-152. Les formes OCR difficiles sont marquées comme à vérifier ; ne pas généraliser automatiquement à tous les verbes en -ir.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 151-152."
+    },
+    {
+      "infinitive": "brère",
+      "variants": [],
+      "group": "4e groupe — terminaisons diverses",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje bré",
+            "tu bré",
+            "i bré",
+            "o z bréyon",
+            "o z bréyé",
+            "i brète"
+          ],
+          "Passé composé": [
+            "j'é bré",
+            "t'o bré",
+            "il o bré",
+            "o z avon bré",
+            "o z avé bré",
+            "il on bré"
+          ],
+          "Futur simple": [
+            "èje bréré",
+            "tu bréro",
+            "i bréro",
+            "o z bréron",
+            "o z bréré",
+            "i bréron"
+          ]
+        },
+        "Impératif": {
+          "Présent": [
+            "bré !",
+            "bréyon !",
+            "bréyé !"
+          ]
+        },
+        "Infinitif": {
+          "Présent": [
+            "brère"
+          ],
+          "Passé I": [
+            "avwèr bré"
+          ],
+          "Passé II": [
+            "avwèr yeu bré"
+          ]
+        },
+        "Participe": {
+          "Présent": [
+            "bréyan"
+          ],
+          "Passé": [
+            "bré"
+          ]
+        }
+      },
+      "notes": "Verbe modèle du 4e groupe ; formes transcrites des tableaux p. 149-150. Relire le scan avant d'utiliser comme référence critique.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 149-150."
+    },
+    {
+      "infinitive": "avwèr",
+      "variants": [],
+      "group": "Auxiliaire",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "j'é",
+            "t'as",
+            "il o",
+            "o z avon",
+            "o z avé",
+            "il on"
+          ],
+          "Passé composé": [
+            "j'é yeu",
+            "t'o yeu",
+            "il o yeu",
+            "o z avon yeu",
+            "o z avé yeu",
+            "il on yeu"
+          ],
+          "Imparfait": [
+            "j'avwé",
+            "t'avwé",
+            "il avwé",
+            "o z avwanme",
+            "o z avwète",
+            "il avwète"
+          ],
+          "Futur simple": [
+            "j'éré",
+            "t'éro",
+            "il éro",
+            "o z éron",
+            "o z éré",
+            "il éron"
+          ]
+        },
+        "Infinitif": {
+          "Présent": [
+            "avwèr"
+          ],
+          "Passé": [
+            "avwèr yeu"
+          ]
+        },
+        "Participe": {
+          "Passé": [
+            "yeu"
+          ]
+        }
+      },
+      "notes": "Auxiliaire AVWÈR, tableau p. 153. Certaines formes sont peu lisibles sur le scan et sont à contrôler.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 153."
+    },
+    {
+      "infinitive": "ète",
+      "variants": [],
+      "group": "Auxiliaire",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje su",
+            "t'é",
+            "il é",
+            "o z some",
+            "o z ète",
+            "il son"
+          ],
+          "Passé composé": [
+            "j'é été",
+            "t'o été",
+            "il o été",
+            "o z avon été",
+            "o z avé été",
+            "il on été"
+          ],
+          "Imparfait": [
+            "j'étwé",
+            "t'étwé",
+            "il étwé",
+            "o z étwanme",
+            "o z étwète",
+            "il étwète"
+          ],
+          "Futur simple": [
+            "èje sré",
+            "tu sro",
+            "il sro",
+            "o z sron",
+            "o z sré",
+            "il sron"
+          ]
+        },
+        "Infinitif": {
+          "Présent": [
+            "ète"
+          ],
+          "Passé": [
+            "avwèr été"
+          ]
+        },
+        "Participe": {
+          "Passé": [
+            "été"
+          ]
+        }
+      },
+      "notes": "Auxiliaire ÈTE, tableau p. 152-153. Le texte OCR du scan est partiellement incertain ; contrôle nécessaire.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 152-153."
+    },
+    {
+      "infinitive": "aller",
+      "variants": [
+        "a6"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje vo"
+          ]
+        }
+      },
+      "notes": "Le livre signale le verbe A6 / aller parmi les verbes particuliers ; le tableau est incomplet dans l'extraction automatique.",
+      "source": "René Debrie, Èche pikar bèl é rade, p. 145 environ (pagination à vérifier)."
+    },
+    {
+      "infinitive": "venir",
+      "variants": [
+        "vnir"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Futur simple": [
+            "èje varé"
+          ]
+        },
+        "Conditionnel": {
+          "Présent": [
+            "èje varwé"
+          ]
+        }
+      },
+      "notes": "Seules les formes visibles et lisibles dans le scan sont ajoutées ; tableau incomplet.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "asseoir",
+      "variants": [
+        "asir"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "j'asi"
+          ]
+        }
+      },
+      "notes": "Forme relevée dans le scan ; conjugaison complète à vérifier visuellement.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "voir",
+      "variants": [
+        "vir"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Conditionnel": {
+          "Présent": [
+            "èje vwwérwé",
+            "èje vérwé"
+          ]
+        }
+      },
+      "notes": "Deux variantes sont signalées dans le livre ; tableau incomplet.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "faire",
+      "variants": [
+        "fwère"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje fwé"
+          ]
+        }
+      },
+      "notes": "Forme visible dans le scan ; tableau incomplet.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "croire",
+      "variants": [
+        "krwère"
+      ],
+      "group": "Irrégulier",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje krwé",
+            "èje kru"
+          ]
+        }
+      },
+      "notes": "Deux formes sont indiquées ; tableau incomplet.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "béyé",
+      "variants": [],
+      "group": "Irrégulier / particularités",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje bé",
+            "tu bé",
+            "i bé",
+            "o béyon",
+            "o béyé",
+            "i bèchte"
+          ]
+        },
+        "Subjonctif": {
+          "Présent": [
+            "k'èje bèche",
+            "k'tu bèche",
+            "k'i bèche",
+            "k'o béyonche",
+            "k'o béyèche",
+            "k'i bèchte"
+          ]
+        },
+        "Futur simple": [
+          "èje béré",
+          "tu béro",
+          "i béro",
+          "o béron",
+          "o béré",
+          "i béron"
+        ]
+      },
+      "notes": "Verbe présenté dans la section des particularités p. 146 environ ; certaines formes du tableau sont incertaines.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    },
+    {
+      "infinitive": "tcheuyé",
+      "variants": [],
+      "group": "Irrégulier / particularités",
+      "type": "irregular",
+      "conjugations": {
+        "Indicatif": {
+          "Présent": [
+            "èje tcheule"
+          ]
+        },
+        "Indicatif futur": {
+          "Futur simple": [
+            "èje tcheuiré",
+            "èje tcheurré"
+          ]
+        }
+      },
+      "notes": "Le livre donne les variantes tcheuiré et tcheurré au futur, ainsi que tcheulrwé / tcheurrwé au conditionnel.",
+      "source": "René Debrie, Èche pikar bèl é rade, page à vérifier."
+    }
+  ]
+}

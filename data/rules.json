@@ -1,0 +1,61 @@
+{
+  "source": "René Debrie, Èche pikar bèl é rade, pages de conjugaison visibles dans le PDF fourni (pagination imprimée notamment 148-152).",
+  "warning": "Règles transcrites à partir du scan ; certaines lignes sont peu lisibles et doivent être relues avant publication comme référence définitive.",
+  "groups": [
+    {
+      "id": "g1",
+      "label": "1er groupe — infinitif en -é",
+      "endings": [
+        "é"
+      ],
+      "model": "kaché",
+      "participles": {
+        "present": "-ant (à vérifier)"
+      },
+      "notes": "Modèle présenté : KACHÉ (chercher), p. 148. Le tableau sert de référence pour les formes effectivement transcrites."
+    },
+    {
+      "id": "g2",
+      "label": "2e groupe — infinitif en -ir, participe présent en -isan",
+      "endings": [
+        "ir"
+      ],
+      "model": "frétchir",
+      "notes": "Modèle présenté : FRÉTCHIR (mouiller), p. 151-152. Le livre distingue ce groupe par le participe présent en -isan."
+    },
+    {
+      "id": "g3",
+      "label": "3e groupe — infinitif en -ir",
+      "endings": [
+        "ir"
+      ],
+      "model": null,
+      "notes": "Le livre présente un troisième groupe en -ir distinct du deuxième. Ne pas le déduire uniquement de l'infinitif : il faut enregistrer le verbe ou le classer manuellement."
+    },
+    {
+      "id": "g4",
+      "label": "4e groupe — terminaisons diverses",
+      "endings": [
+        "wèr",
+        "re",
+        "ve",
+        "de",
+        "ne",
+        "wète",
+        "ète"
+      ],
+      "model": "brère",
+      "notes": "Classe indiquée p. 148 : -wèr, -re, -ve, -de, -ne, -wète, -ète. De nombreux verbes ont des alternances et exceptions ; la terminaison seule ne suffit pas toujours."
+    }
+  ],
+  "personnes": [
+    "èje — 1re personne du singulier",
+    "tu — 2e personne du singulier",
+    "i / il — 3e personne du singulier",
+    "o z — 1re personne du pluriel",
+    "o z — 2e personne du pluriel",
+    "i / il — 3e personne du pluriel"
+  ],
+  "notePersonnes": "Les formes pronominales visibles varient selon le contexte phonétique et les tableaux. Les libellés de personnes sont indicatifs ; chaque forme conjuguée doit conserver le pronom écrit dans le livre.",
+  "dictionaryModule": "Réservé : data/dictionary.json ; ne pas mélanger avec les données de conjugaison."
+}
